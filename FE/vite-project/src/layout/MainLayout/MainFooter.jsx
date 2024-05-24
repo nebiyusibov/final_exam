@@ -1,4 +1,5 @@
 import React from 'react'
+import "./MainFooter.scss"
 
 function MainFooter() {
   return (
